@@ -1,9 +1,7 @@
 # Hello, I'm Clement
 <a href="https://www.linkedin.com/in/lucky-clement-093098235"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-
-SOC Level 1 Analyst with hands-on experience in log analysis, alert triaging, and incident response. Google Cybersecurity and TryHackMe SOC Analyst certified, with a strong passion for detecting and mitigating cyber threats. Focused on continuous learning and building practical skills to protect systems and support security operations.
-
+Aspiring SOC LV1 Analyst with hands-on experience in log analysis, alert triaging, and incident response. Google Cybersecurity and TryHackMe SOC LV1 Certified.
 ## Objective
 
 A cybersecurity analyst seeking an entry-level SOC Analyst role to begin a career in security operations. Equipped with foundational knowledge in log analysis, alert triaging, incident response, and Documentation through hands-on labs and certifications. Eager to learn, grow, and contribute to identifying and responding to cyber threats in a real-world environment.

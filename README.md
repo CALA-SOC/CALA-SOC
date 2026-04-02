@@ -15,10 +15,14 @@ A cybersecurity analyst seeking an entry-level SOC Analyst role to begin a caree
 
 
 
-## Certifications
-- CompTIA Security + (Ongoing)
-- Try Hack Me SOC Level 1
-- Google Cybersecurity Foundation Course 
+- ## 📜 Certifications
+-  CompTIA Security + (Ongoing)
+
+- 🛡️ TryHackMe SOC Level 1 Analyst  
+  [View Certificate](https://github.com/CALA-SOC/cybersecurity-certificates/blob/main/TryHackMe%20SOC%20Level%201%20Certificate.pdf)
+
+- 🔐 Google Cybersecurity Certificate  
+  [View Certificate](https://github.com/CALA-SOC/cybersecurity-certificates/blob/main/Google%20Cybersecurity%20Certificate.pdf)
 
 ## Projects
 - SOC Home Lab Project (VirtualBox + Splunk + Active Directory) <a href="https://github.com/CALA-SOC/Soc-home-lab">Soc Home Lab</a>

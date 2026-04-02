@@ -1,8 +1,8 @@
 # Hello, I'm Clement
-<a href="https://www.linkedin.com/in/lucky-clement-093098235"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="www.linkedin.com/in/emeka-clement-093098235"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 📍 **Location**: Lagos, Nigeria  (Open for Relocation)  
-💼 **Cybersecurity Enthusiast | SOC Analyst |**              
+💼 **Cybersecurity Enthusiast | SOC Level 1 Analyst |**              
 📧 **Email**: clementemekalucky@gmail.com  
 
 -----------------------

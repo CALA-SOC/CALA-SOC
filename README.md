@@ -16,7 +16,7 @@ A cybersecurity analyst seeking an entry-level SOC Analyst role to begin a caree
 
 
 ## Certifications
-- CompTIA Security +
+- CompTIA Security + (Ongoing)
 - Try Hack Me SOC Level 1
 - Google Cybersecurity Foundation Course 
 
